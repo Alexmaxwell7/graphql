@@ -1,0 +1,34 @@
+{
+    "customers": [
+      {
+        "id": "1",
+        "name": "Ajith",
+        "email": "Ajith@gmail.com",
+        "age": 20
+      },
+      {
+        "id": "2",
+        "name": "Sandy",
+        "email": "sandy@gmail.com",
+        "age": 20
+      },
+      {
+        "id": "3",
+        "name": "dom",
+        "email": "dom@gmail.com",
+        "age": 22
+      },
+      {
+        "id": "4",
+        "name": "vicky",
+        "email": "vicky@gmail.com",
+        "age": 20
+      },
+      {  
+        "id": "5",
+        "name": "Bala",
+        "email": "bala@gmail.com",
+        "age": 18
+      }
+    ]
+  }
